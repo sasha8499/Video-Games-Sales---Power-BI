@@ -26,6 +26,11 @@ The dashboard is interactive, visually engaging, and tailored for stakeholders w
 
 ---
 
+## 📷 Dashboard Preview
+
+![Screenshot 2025-04-19 011543](https://github.com/user-attachments/assets/ddcc5868-ca51-4b25-8f9d-d6ee2e9036fe)
+
+
 ## 📌 Key Visualizations
 
 1. **Global Sales Over the Years** (Line Chart)
