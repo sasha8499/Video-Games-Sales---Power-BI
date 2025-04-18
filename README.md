@@ -62,3 +62,8 @@ These slicers help users to filter and focus the dashboard based on specific gam
 
 ---
 
+## 🙌 **Author**
+**MOHD. KHAJA PASHA**  
+Data Analyst | SQL Enthusiast | Data Storyteller
+
+🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)* 
